@@ -11,9 +11,9 @@ namespace MCQ_practices
 
         //static void Main(string[] args)
         //{
-        //    string s1 = "Delhi";
+        //    string s1 = "Dhaka";
         //    string s2;
-        //    s2 = s1.Insert(6, "Jaipur");
+        //    s2 = s1.Insert(6, "Mirpur");
         //    Console.WriteLine(s2);
         //}
         // Why this giving me an exception??

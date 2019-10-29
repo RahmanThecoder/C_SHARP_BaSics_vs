@@ -271,19 +271,19 @@ namespace MCQ_practices
 
         //16
 
-        static void Main(string[] args)
-        {
-            int a = 8, b = 6, c = 10;
-            int d = a * c * 2 / Convert.ToInt32(Math.Pow((c - b), 2));
-            if (d == (c = Convert.ToInt32(Math.Sqrt(a * a + b * b))) && c == 10)
-            {
-                Console.WriteLine("figure is hypotenuse");
-            }
-            else
-            {
-                Console.WriteLine("figure is square");
-            }
-        }
+        //static void Main(string[] args)
+        //{
+        //    int a = 8, b = 6, c = 10;
+        //    int d = a * c * 2 / Convert.ToInt32(Math.Pow((c - b), 2));
+        //    if (d == (c = Convert.ToInt32(Math.Sqrt(a * a + b * b))) && c == 10)
+        //    {
+        //        Console.WriteLine("figure is hypotenuse");
+        //    }
+        //    else
+        //    {
+        //        Console.WriteLine("figure is square");
+        //    }
+        //}
 
     }
     }
